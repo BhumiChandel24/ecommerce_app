@@ -4,7 +4,14 @@ A complete **Full Stack E-Commerce Website** built with the **MERN Stack (MongoD
 
 ## 🚀 Live Demo
 
-🌐 **Website:** https://ecommerce-app-frontend-topaz.vercel.app
+### 🛒 User Website
+https://ecommerce-app-frontend-topaz.vercel.app
+
+### 🛠️ Admin Dashboard
+https://ecommerce-app-admin-murex.vercel.app
+
+### ⚡ Backend API
+https://ecommerce-app-omega-black.vercel.app
 
 ## 📖 Project Overview
 
